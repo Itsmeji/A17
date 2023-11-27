@@ -12,8 +12,8 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = true;                 //This is the new variable for controlling status seen.
-global.autoreadgc = true;
+global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.autoreadgc = false;
 
 
 //
@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
-global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Kai";                               //Do not change.
+global.Owner = ["22899869601", "22898117668"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["22899869601", "22898117668"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["22899869601"];
+global.OwnerName = "🌹NΩNE🌺";
+global.BotName = "👑Seventeen•BOT👑";
+global.packname = "strawberry 🍓";                             //Do not change.
+global.author = "By: stamina•NΩNE🥀";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://chat.whatsapp.com/GyuNhffyyuc3PVq6JMZyG8";
 
 
 //
@@ -88,7 +88,7 @@ global.mess = {
   botonly: 'Only the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
   nolink: 'Please provide me *link*, Baka!',
-  error: 'An error occurd!',
+  error: 'An error occured!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
   nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
