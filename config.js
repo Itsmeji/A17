@@ -33,7 +33,7 @@ global.SupportGroupLink = "https://chat.whatsapp.com/GyuNhffyyuc3PVq6JMZyG8";
 
 
 //
-global.sessionName = "creds-1.json";                          //Do not change.
+global.sessionName = "A17-session";                          //Do not change.
 
 
 //
